@@ -5,12 +5,12 @@
   "description": "Parcel model schemas for freight",
   "keywords": [
     "datr.tech",
-		"freight",
-		"model",
-		"mongoose",
+    "freight",
+    "model",
+    "mongoose",
     "parcel",
-		"schemas",
-		"typescript"
+    "schemas",
+    "typescript"
   ],
   "homepage": "https://github.com/datr.tech/parcel-model-schemas-freight",
   "repository": {
