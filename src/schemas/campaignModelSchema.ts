@@ -1,4 +1,4 @@
-import { commonSchemaFieldGroupModelType, commonSchemaFieldDefObjectIdRequired } from '@freight/common-schema-fields';
+import { commonSchemaFieldGroupModelType, commonSchemaFieldDefObjectIdRequired } from '@datr.tech/leith-common-schema-fields';
 
 export const campaignModelSchema = {
   _id: {
